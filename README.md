@@ -31,3 +31,6 @@ print(v.UP) # Unprocessed value i.e '3'
 print(v.T) # Value type i.e 'number'
   
 ```
+
+I only kept the non-autmoated because the autmoated uses that and i'd have to recode plus if you do it manually you can
+customize the outputs.
